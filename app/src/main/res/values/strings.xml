@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Miles-KM converter</string>
+    <string name="enter_km">Enter KM</string>
+    <string name="done">Done</string>
+    <string name="enter_miles">Enter Miles</string>
+    <string name="miles_km_converter">Miles-KM Converter</string>
+    <string name="km">KM</string>
+    <string name="miles">miles</string>
+</resources>
